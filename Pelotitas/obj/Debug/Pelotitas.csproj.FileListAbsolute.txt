@@ -1,0 +1,11 @@
+D:\VisualStudio\Pelotitas\Pelotitas\bin\Debug\Pelotitas.exe.config
+D:\VisualStudio\Pelotitas\Pelotitas\bin\Debug\Pelotitas.exe
+D:\VisualStudio\Pelotitas\Pelotitas\bin\Debug\Pelotitas.pdb
+D:\VisualStudio\Pelotitas\Pelotitas\obj\Debug\Pelotitas.FormJuego.resources
+D:\VisualStudio\Pelotitas\Pelotitas\obj\Debug\Pelotitas.Properties.Resources.resources
+D:\VisualStudio\Pelotitas\Pelotitas\obj\Debug\Pelotitas.csproj.GenerateResource.cache
+D:\VisualStudio\Pelotitas\Pelotitas\obj\Debug\Pelotitas.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Pelotitas\Pelotitas\obj\Debug\Pelotitas.exe
+D:\VisualStudio\Pelotitas\Pelotitas\obj\Debug\Pelotitas.pdb
+D:\VisualStudio\Pelotitas\Pelotitas\obj\Debug\Pelotitas.PelotitaControl.resources
+D:\VisualStudio\Pelotitas\Pelotitas\obj\Debug\Pelotitas.csprojAssemblyReference.cache
